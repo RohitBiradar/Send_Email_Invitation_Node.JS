@@ -13,6 +13,7 @@ This Application is developed by ROHIT BIRADAR.
                        HOW TO RUN THIS APPLICATION
 
 
+----->>>> make a file. Naming views and move email.ejs file into it. then
 
 ----->>>> npm init 
 
@@ -20,5 +21,5 @@ This Application is developed by ROHIT BIRADAR.
 
 ----->>>> node email.js
 
-
+Here we GO.
 Enjoy the Code.
